@@ -8,3 +8,4 @@ This is a repository that contains all the ciphers that I've come across as a st
 #### The following ciphers are implemented in this repository:
 1. Caesar Cipher
 2. Rail Fence Cipher
+3. Atbash Cipher
