@@ -10,3 +10,4 @@ This is a repository that contains all the ciphers that I've come across as a st
 2. Rail Fence Cipher
 3. Atbash Cipher
 4. Keyword Cipher
+5. Mix Cipher
